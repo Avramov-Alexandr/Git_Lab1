@@ -1,1 +1,33 @@
-bla bla bla
+Lenovo@DESKTOP-0LSV0PS MINGW64 ~/Git1 (master)
+$ git log
+commit 94ea852747262abacf3832f38bf94092fe776fdc (HEAD -> master)
+Merge: 39da4aa fd0bb37
+Author: Alexandr Avramov <avramova83@mail.ru>
+Date:   Thu Sep 8 09:09:47 2022 +0300
+
+    Merge branch 'master' of https://github.com/Avramov-Alexandr/Git_Lab1
+
+commit 39da4aa45f3f6d1c88cc8144eb7c1a5b33cce130
+Author: Alexandr Avramov <avramova83@mail.ru>
+Date:   Thu Sep 8 09:06:10 2022 +0300
+
+    Final version
+
+commit fd0bb3764fa8d09bda823cc7afeb59135aa645fd (origin/master)
+Author: Avramov-Alexandr <79135102+Avramov-Alexandr@users.noreply.github.com>
+Date:   Thu Sep 8 08:43:56 2022 +0300
+
+    Create File.txt
+
+commit 8fa05aeb72894ffa2a91f5f3d330f58af3b8011c (branch1)
+Author: Alexandr Avramov <avramova83@mail.ru>
+Date:   Thu Sep 8 08:32:37 2022 +0300
+
+    Second commit
+
+commit 72fb5db17530fca3b190679b525ab8d4c5373bda (branch2)
+Author: Alexandr Avramov <avramova83@mail.ru>
+Date:   Thu Sep 8 08:27:38 2022 +0300
+
+    First commit
+
